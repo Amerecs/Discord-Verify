@@ -89,4 +89,4 @@ col.on('collect', async message => {
           })
 
 
-client.login('MTEzMzcyNzU1ODA5ODIzMTMxNg.GYa380.nY2H7lLp4IFb0D8Vb7IHbjzWMinYR35fwr2tSQ')
+client.login('')
